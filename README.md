@@ -1,3 +1,3 @@
 # wildrydes-site
 
-This repository is used for aws! 
+This repository is used for aws workshop! 
