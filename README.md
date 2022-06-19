@@ -4,4 +4,4 @@ This repository is used for aws workshop!
 
 ## Application Architecture
 
-![architech](/images/architech)
+![architech](/images/architech.png)
